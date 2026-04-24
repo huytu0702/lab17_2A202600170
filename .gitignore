@@ -1,2 +1,12 @@
 .env
 .claude/
+.venv/
+__pycache__/
+chroma_db/
+redis.log
+redis.pid
+redis.sock
+redis.conf
+redis.rdb
+redis.aof
+redis.log

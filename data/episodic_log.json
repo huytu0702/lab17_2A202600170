@@ -1,0 +1,281 @@
+[
+  {
+    "id": "400b3f8e-8693-4481-aa2b-a373bfdbe872",
+    "timestamp": "2026-04-24T04:34:35.161211",
+    "user_id": "alice",
+    "turn": 4,
+    "content": "What do you know about my allergies?",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "3f7b32b6-49a0-4709-8865-3d9f68f818c9",
+    "timestamp": "2026-04-24T04:34:42.338722",
+    "user_id": "alice",
+    "turn": 7,
+    "content": "What did we talk about at the start?",
+    "tags": [],
+    "importance_score": 0.7
+  },
+  {
+    "id": "a630b3a7-fb51-4ac6-a833-6c7ac441c61c",
+    "timestamp": "2026-04-24T04:35:04.176787",
+    "user_id": "bench_user_0",
+    "turn": 2,
+    "content": "I also really enjoy reading sci-fi novels.",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "205acc85-f888-4303-a80d-053ba2b873fc",
+    "timestamp": "2026-04-24T04:35:05.974626",
+    "user_id": "bench_user_0",
+    "turn": 3,
+    "content": "What hobbies did I mention?",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "c791dbe6-92e9-44f1-9b90-8f385b50c3f2",
+    "timestamp": "2026-04-24T04:35:08.203090",
+    "user_id": "bench_user_0",
+    "turn": 4,
+    "content": "Do you know my name?",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "c1cfe5b0-43a8-41f8-9e81-7230c75215b7",
+    "timestamp": "2026-04-24T04:35:12.466217",
+    "user_id": "bench_user_0",
+    "turn": 5,
+    "content": "Summarise what you know about me.",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "4b83a3aa-be10-4c2c-a666-fe3012f9d01d",
+    "timestamp": "2026-04-24T04:35:55.411312",
+    "user_id": "bench_user_1",
+    "turn": 4,
+    "content": "Which one is better for text generation?",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "73111130-2b57-42dc-b089-2e846d75b65e",
+    "timestamp": "2026-04-24T04:36:01.429607",
+    "user_id": "bench_user_1",
+    "turn": 5,
+    "content": "Summarise our technical discussion.",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "c0e3d859-dc5e-4e65-9540-30d0cba28503",
+    "timestamp": "2026-04-24T04:36:51.104463",
+    "user_id": "bench_user_2",
+    "turn": 1,
+    "content": "Last week I finished a project on climate data analysis.",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "07511d59-968c-4b9b-abe2-3af32fb5963c",
+    "timestamp": "2026-04-24T04:36:53.132540",
+    "user_id": "bench_user_2",
+    "turn": 2,
+    "content": "It involved Python and pandas for data cleaning.",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "1dcd058e-5fa8-4d97-9924-86d7fc863ffc",
+    "timestamp": "2026-04-24T04:36:54.859897",
+    "user_id": "bench_user_2",
+    "turn": 3,
+    "content": "What did I work on last week?",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "8260bb8a-bac9-4e9d-ba79-deba3088627b",
+    "timestamp": "2026-04-24T04:36:56.509656",
+    "user_id": "bench_user_2",
+    "turn": 4,
+    "content": "What tools did I use?",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "535690b3-0ece-4e43-9dba-618d7cd8ba04",
+    "timestamp": "2026-04-24T04:37:02.934961",
+    "user_id": "bench_user_2",
+    "turn": 5,
+    "content": "Any advice for my next similar project?",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "a4967e42-f7bc-4bad-bd4d-603d6e07167e",
+    "timestamp": "2026-04-24T04:37:31.304409",
+    "user_id": "bench_user_3",
+    "turn": 2,
+    "content": "I also prefer short concise answers.",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "5b4dd634-35ae-4146-b8b0-910a2eba156c",
+    "timestamp": "2026-04-24T04:37:35.553437",
+    "user_id": "bench_user_3",
+    "turn": 4,
+    "content": "How should you format your answers for me?",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "8d90bf77-e6bc-4957-a1f6-5cfbd278c408",
+    "timestamp": "2026-04-24T04:37:37.709657",
+    "user_id": "bench_user_3",
+    "turn": 5,
+    "content": "List all my preferences you know.",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "628c7458-d2fc-47bf-b5d3-035bd8d7799a",
+    "timestamp": "2026-04-24T04:38:13.365008",
+    "user_id": "bench_user_4",
+    "turn": 4,
+    "content": "How are these concepts related?",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "d14de13d-1012-4a9a-a45b-4bafaec467ea",
+    "timestamp": "2026-04-24T04:38:26.175099",
+    "user_id": "bench_user_4",
+    "turn": 5,
+    "content": "Give me a learning roadmap for deep learning.",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "742706a7-961c-42be-b03e-b6f9e518af47",
+    "timestamp": "2026-04-24T04:39:43.864092",
+    "user_id": "bench_user_5",
+    "turn": 3,
+    "content": "We talked about my job earlier, remind me.",
+    "tags": [],
+    "importance_score": 0.7
+  },
+  {
+    "id": "a1e9f4e4-2d45-4f90-b66f-3711dbadbca6",
+    "timestamp": "2026-04-24T04:39:55.182446",
+    "user_id": "bench_user_5",
+    "turn": 5,
+    "content": "What do you know about me so far?",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "3346489c-1817-42e4-b2d3-f6e46b7a355f",
+    "timestamp": "2026-04-24T04:40:31.913374",
+    "user_id": "bench_user_6",
+    "turn": 2,
+    "content": "What were the key milestones in AI development?",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "73ed165a-0004-4ad0-82f7-d741b520a7e3",
+    "timestamp": "2026-04-24T04:40:57.775371",
+    "user_id": "bench_user_6",
+    "turn": 5,
+    "content": "Summarise everything we discussed about AI.",
+    "tags": [],
+    "importance_score": 0.7
+  },
+  {
+    "id": "3495f90e-3793-4fcf-9109-535e715cd1ac",
+    "timestamp": "2026-04-24T04:42:01.573842",
+    "user_id": "bench_user_7",
+    "turn": 2,
+    "content": "I specialise in distributed systems.",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "b437046d-1fc0-44af-9d6b-8762efb83faf",
+    "timestamp": "2026-04-24T04:42:03.862858",
+    "user_id": "bench_user_7",
+    "turn": 3,
+    "content": "Who am I and where do I work?",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "3ec44f15-7c64-4678-9b5c-d81e59d2af80",
+    "timestamp": "2026-04-24T04:42:09.205070",
+    "user_id": "bench_user_7",
+    "turn": 5,
+    "content": "Introduce me as if writing a bio.",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "02d11865-8268-4c19-aa38-bfdaa3b6a10e",
+    "timestamp": "2026-04-24T04:42:36.720371",
+    "user_id": "bench_user_8",
+    "turn": 2,
+    "content": "How are embeddings used in semantic search?",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "4ca0229d-4f0c-4736-bb5b-505083f4ccdd",
+    "timestamp": "2026-04-24T04:42:46.317040",
+    "user_id": "bench_user_8",
+    "turn": 3,
+    "content": "What vector databases are popular?",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "4469ae9c-1978-405f-81d9-5c1b636729c7",
+    "timestamp": "2026-04-24T04:43:07.658236",
+    "user_id": "bench_user_8",
+    "turn": 5,
+    "content": "Summarise the semantic search pipeline.",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "0d706a08-3c0f-4e1a-aa27-e636e8fa74ae",
+    "timestamp": "2026-04-24T04:44:05.430760",
+    "user_id": "bench_user_9",
+    "turn": 2,
+    "content": "Last month I made a great carbonara recipe.",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "000bc200-aa00-491a-a342-fcfe52efd404",
+    "timestamp": "2026-04-24T04:44:14.609232",
+    "user_id": "bench_user_9",
+    "turn": 4,
+    "content": "What did I make last month?",
+    "tags": [],
+    "importance_score": 0.3
+  },
+  {
+    "id": "ae2626bd-0159-4239-9d0d-641ab7d36bd5",
+    "timestamp": "2026-04-24T04:44:21.110255",
+    "user_id": "bench_user_9",
+    "turn": 5,
+    "content": "Combine my interests and science: what should I try next?",
+    "tags": [],
+    "importance_score": 0.3
+  }
+]
